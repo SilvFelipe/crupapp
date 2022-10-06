@@ -1,0 +1,10 @@
+#server:
+ # port: 8080
+
+#spring:
+ # jpa:
+  #  database-platform: org.hibernate.dialect.PostgreSQLDialect
+#  datasource:
+ #   url: "jdbc:postgresql://localhost:5432/crudapp"
+  #  username: postgres
+   # password: f3lip3
