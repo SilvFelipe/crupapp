@@ -1,6 +1,5 @@
 package com.crudapp.crud.controller;
 
-import java.io.ByteArrayOutputStream;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
